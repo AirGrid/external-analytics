@@ -207,7 +207,7 @@ st.markdown(
     """    
     **Warning!** Selecting a cross that does not exist for example Mobile and IE, will return a strange graph.
 
-    _You can select the checkbox below to see the raw dataframe._
+    _You can select the checkbox below to see the filtered dataframe._
     """
 )
 
@@ -242,6 +242,6 @@ st.markdown(
     - [EdgeKit](https://edgekit.org)
     - [Blog Post](https://medium.com/@ag_internal/cookie-support-analysis-in-the-airgrid-blog-network)
     - [Raw data for this app](https://storage.googleapis.com/ag-external-data/airgrid_blog_network_cookie_support.csv)
-    - [Code for this app]()
+    - [Code for this app](https://github.com/AirGrid/external-analytics/tree/main/streamlit)
     """
 )
